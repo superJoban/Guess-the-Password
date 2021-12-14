@@ -3,10 +3,10 @@
 # After the guessing is done the user is given a score based on how many letters they guessed correct,
 # Finally the user will be given the opportunity to create a new improved password for each profile and then view the submissions of updated passwords from other users
 # Authors:
-# Mohammad Aaraiz (30092994)
-# Muhammad Talha Siddiqui (30113909)
-# Jobanpreet Singh (30076525)
-# Matthew Newton (30094756)
+# Mohammad Aaraiz
+# Muhammad Talha Siddiqui
+# Jobanpreet Singh 
+# Matthew Newton
 
 import random
 import os
